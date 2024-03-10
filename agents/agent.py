@@ -266,3 +266,4 @@ class MyPlayer(BasePokerPlayer):
 
 def setup_ai():
     return MyPlayer()
+
